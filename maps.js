@@ -60,7 +60,7 @@ window.onload = function () {
     window.map = new Image();
     window.pin = new Image();
     window.pinSelected = new Image();
-    map.src = "img/s5-1k.jpg"
+    map.src = "https://mrfortnite.ml/images/S8_MAP.jpg"
     pin.src = "img/pin.png";
     pinSelected.src = "img/pin_selected.png";
     /* Pre calculate to make sure all variables are loaded. */
